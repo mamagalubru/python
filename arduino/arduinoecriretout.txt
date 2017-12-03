@@ -1,0 +1,1 @@
+b'Message numero 0\r\n'b"Bonjour, la Fen\xc3\xaatre, ici l'Arduino!\r\n"b'Message numero 1\r\n'b"Bonjour, la Fen\xc3\xaatre, ici l'Arduino!\r\n"b'Message numero 2\r\n'b"Bonjour, la Fen\xc3\xaatre, ici l'Arduino!\r\n"b'Message numero 3\r\n'b"Bonjour, la Fen\xc3\xaatre, ici l'Arduino!\r\n"b'Message numero 4\r\n'b"Bonjour, la Fen\xc3\xaatre, ici l'Arduino!\r\n"
