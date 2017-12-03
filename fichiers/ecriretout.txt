@@ -1,0 +1,11 @@
+Je suis rouge et bleu et vert et jaune à la fois (triple apostrophe) il dit "Qu'il est génant d'être étourdi et mauve à la fois" (échappement via antislash)  
+Ajoutée à la fin du fichier, je suis la ligne 1
+Ajoutée à la fin du fichier, je suis la ligne 2
+Ajoutée à la fin du fichier, je suis la ligne 3
+Ajoutée à la fin du fichier, je suis la ligne 4
+Ajoutée à la fin du fichier, je suis la ligne 5
+Ajoutée à la fin du fichier, je suis la ligne 6
+Ajoutée à la fin du fichier, je suis la ligne 7
+Ajoutée à la fin du fichier, je suis la ligne 8
+Ajoutée à la fin du fichier, je suis la ligne 9
+Ajoutée à la fin du fichier, je suis la ligne 10

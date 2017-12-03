@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<contacts>
+  <contact name="doe" firstname="john">
+    <address>
+      <road value="10, binary street" />
+      <postal value="0001" />
+      <city value="cpu" />
+    </address>
+    <programming lang="asm" />
+  </contact>
+  <contact name="dupont" firstname="jean">
+    <address>
+      <road value="impasse de l'assembleur" />
+      <postal value="0100" />
+      <city value="dram" />
+    </address>
+    <programming lang="c" />
+  </contact>
+  <contact name="terprette" firstname="quentin">
+    <address>
+      <road value="avenue du script" />
+      <postal value="1001" />
+      <city value="salt snake city" />
+    </address>
+    <programming lang="python" />
+  </contact>
+</contacts>

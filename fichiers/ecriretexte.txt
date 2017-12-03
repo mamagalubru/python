@@ -1,0 +1,1 @@
+Je suis rouge et bleu et vert et jaune à la fois (triple apostrophe) il dit "Qu'il est génant d'être étourdi et mauve à la fois" (échappement via antislash)  
