@@ -11,6 +11,7 @@ import re
 
 # initialisation de la chaine de test
 sentences = ['alex aidant',
+             'sylvie tfait',
              'lamine dor',
              'vera dent']
 # initialisation de la chaine de recherche
