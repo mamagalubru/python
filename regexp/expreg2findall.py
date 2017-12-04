@@ -2,7 +2,8 @@
 #-*- coding: utf-8 -*-
 
 '''
-Commençons par le début, recherchons des mots se terminant par a ou m
+Commençons par le début, recherchons dans des listes 
+avec re.findall des mots se terminant par a ou m
 Cela peut se traduire par \w*[am]\W
 '''
 

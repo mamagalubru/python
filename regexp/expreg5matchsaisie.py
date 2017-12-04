@@ -1,7 +1,9 @@
 #!C:\Python34\python.exe
 #-*- coding: utf-8 -*-
 
-'''Controle sur des objets tkinter '''
+'''Controle sur des objets tkinter avec re.match
+on saisit le regexp puis la chaine à contrôler
+'''
 
 # import des modules adéquats
 import re

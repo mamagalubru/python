@@ -2,7 +2,8 @@
 #-*- coding: utf-8 -*-
 
 '''
-Continuons avec [(^[a-z0-9._-]+@[a-z0-9_-]+\.(com|fr){1}) 
+Continuons avec re.match une recherche d'adresse mail com ou fr
+[(^[a-z0-9._-]+@[a-z0-9_-]+\.(com|fr){1}) 
 '''
 
 # import du module adéquat

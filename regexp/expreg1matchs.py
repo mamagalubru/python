@@ -1,7 +1,10 @@
 #!C:\Python34\python.exe
 #-*- coding: utf-8 -*-
 
-''' il faut toujours commencer petit, construire brique par brique '''
+''' 
+il faut toujours commencer petit, construire brique par brique 
+recherchons dans des chaines avec re.match des mots spécifiques
+'''
 
 # import du module adéquat
 import re

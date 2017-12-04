@@ -2,7 +2,7 @@
 #-*- coding: utf-8 -*-
 
 '''
-Commençons par le début, splitons des mots quelconques d'une liste
+Commençons par le début, splitons avec re.split des mots quelconques d'une liste
 Cela peut se traduire par \W+
 '''
 

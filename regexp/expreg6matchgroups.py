@@ -2,8 +2,9 @@
 #-*- coding: utf-8 -*-
 
 '''
-Commençons par le début, recherchons des mots se terminant par a ou m
-Cela peut se traduire par \w*[am]\W
+Commençons par le début, recherchons des mots et rangeons 
+le résultat dans des cases (groupes nommés)
+Cela peut se traduire par r"(?P<nom>\w+) (?P<alias>\w+)"
 '''
 
 # import du module adéquat
@@ -11,7 +12,6 @@ import re
 
 # initialisation de la chaine de test
 sentences = ['alex aidant',
-             'sylvie tfait',
              'lamine dor',
              'vera dent']
 # initialisation de la chaine de recherche
