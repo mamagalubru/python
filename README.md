@@ -4,17 +4,29 @@
 # repository github : https://github.com/mamagalubru/python.git
 # utiliser avec git
 
-# pousser (push) du local vers github
-#1 lancer git en local
-#2 se postionner sur répertoire local G:\github\mamagalubru\python
-#3 vérifier le remote : 
+
+# récupérer une première fois un dossier github
+# =============================================
+# lancer git en local
+# créer le dossier de réception locale (exemple : G:\github\mamagalubru\python)
+# se positionner sur ce dossier
+# effectuer un git clone du dépôt (exemple : git clone https://github.com/mamagalubru/python)
+
+# pousser (push) une modification locale vers github
+# ==================================================
+# modifier le ou les fichierslancer
+# lancer git en local
+# se postionner sur répertoire local G:\github\mamagalubru\python
+# vérifier le remote : 
 	git remote -v 
-	git remote show origin
-	git config remote.origin.url
-#4 git status (pour vérifier si todo)
-#5 git add fileschanged ou git commit -a (pour valider la modification locale)
-#6 git push pour valider 
-...
-# récupérer (pull) de github vers le local
-#7 tout repositionner comme ci-dessus
-#8 git pull
+	ou git remote show origin
+	ou git config remote.origin.url
+# git status (pour vérifier si des modifications ont été effectuées)
+# git add fileschanged ou git commit -a (pour valider la modification locale)
+# git push pour valider 
+
+# récupérer (pull) une modification sur github vers le local
+# ========================================
+# tout repositionner comme ci-dessus
+# git pull
+
