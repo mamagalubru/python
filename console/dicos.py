@@ -20,12 +20,12 @@ print(sports_favoris)
 print("*" * 10)
 print(sports_favoris['oeil de triton'])
 
-# modifie le dico de clé oreille de taureau et imprime le dico
+# modifie le dico de clé oreille de taureau puis imprime le dico
 sports_favoris['oreille de taureau'] = 'saut'
 print("*" * 10)
 print(sports_favoris)
 
-# détruit le dico de clé orteil de crapaud et imprime le dico
+# détruit le dico de clé orteil de crapaud puis imprime le dico
 del sports_favoris['orteil de crapaud']
 print("*" * 10)
 print(sports_favoris)
@@ -52,3 +52,11 @@ for (cle, sport) in sports_favoris.items():
 print("*" * 10)
 for (cle, sport) in sorted(sports_favoris.items(), key=lambda item: (item[1], item[0])):
     print(sport, cle)
+
+# imprime les clés du dico en utilisant les compréhensions de liste
+print("*" * 10)
+[print(cle) for cle in sports_favoris.keys()]
+
+# imprime les items du dico en utilisant les compréhensions de liste
+print("*" * 10)
+[print(sport) for sport in sports_favoris.items()]
